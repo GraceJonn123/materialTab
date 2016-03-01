@@ -20,7 +20,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="MAin menu"
-        android:id="@+id/button"
+        android:id="@+id/dakmain"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="47dp"
@@ -31,10 +31,10 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="next"
-        android:id="@+id/button4"
-        android:layout_alignTop="@+id/button"
-        android:layout_toRightOf="@+id/button"
-        android:layout_toEndOf="@+id/button"
+        android:id="@+id/daknext"
+        android:layout_alignTop="@+id/dakmain"
+        android:layout_toRightOf="@+id/dakmain"
+        android:layout_toEndOf="@+id/dakmain"
         android:backgroundTint="@color/orange"/>
 
     <Button
@@ -42,9 +42,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="prev."
-        android:id="@+id/button5"
-        android:layout_alignTop="@+id/button"
-        android:layout_toLeftOf="@+id/button"
-        android:layout_toStartOf="@+id/button"
+        android:id="@+id/dakprev"
+        android:layout_alignTop="@+id/dakmain"
+        android:layout_toLeftOf="@+id/dakmain"
+        android:layout_toStartOf="@+id/dakmain"
         android:backgroundTint="@color/orange" />
 </RelativeLayout>

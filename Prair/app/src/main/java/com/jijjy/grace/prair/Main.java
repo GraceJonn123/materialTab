@@ -17,6 +17,10 @@ public class Main extends AppCompatActivity {
         setContentView(R.layout.main);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
+
+        public void onClickButton(){
+
+    }
     }
 
     @Override

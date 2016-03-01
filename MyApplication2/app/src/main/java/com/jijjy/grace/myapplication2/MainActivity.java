@@ -49,11 +49,5 @@ public class MainActivity extends AppCompatActivity {
         int num2 = Integer.parseInt(e2.getText().toString());
         int sum = num1 + num2;
         e3.setText(Integer.toString(sum));
-        int product = num1 * num2;
-        e3.setText(Integer.toString(product));
-        int divide = num1 / num2;
-        e3.setText(Integer.toString(divide));
-        int subtract = num1 - num2;
-        e3.setText(Integer.toString(subtract));
     }
 }

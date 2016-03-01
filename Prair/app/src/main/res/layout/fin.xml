@@ -1,7 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#000000">
+    android:background="#a17b06">
 
-</LinearLayout>
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="prev."
+        android:backgroundTint="@color/orange"
+        android:id="@+id/finprev"
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@+id/finmain"
+        android:layout_toStartOf="@+id/finmain" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="main menu"
+        android:backgroundTint="@color/orange"
+        android:id="@+id/finmain"
+        android:layout_gravity="center_horizontal"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/imageView6"
+        android:layout_alignEnd="@+id/imageView6"
+        android:layout_marginRight="54dp"
+        android:layout_marginEnd="54dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Psych!! Thank you for joining me! ; )"
+        android:id="@+id/textView2"
+        android:textColor="@color/orange"
+        android:textSize="40dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:id="@+id/imageView6"
+        android:background="@drawable/lol"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

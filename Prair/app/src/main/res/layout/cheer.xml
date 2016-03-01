@@ -14,4 +14,35 @@
         android:textColor="@color/white"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="main menu"
+        android:id="@+id/cheermain"
+        android:backgroundTint="@color/orange"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="next"
+        android:id="@+id/cheernext"
+        android:backgroundTint="@color/orange"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@+id/cheermain"
+        android:layout_toEndOf="@+id/cheermain" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="prev."
+        android:id="@+id/cheerprev"
+        android:backgroundTint="@color/orange"
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@+id/cheermain"
+        android:layout_toStartOf="@+id/cheermain" />
 </RelativeLayout>

@@ -28,13 +28,32 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Next"
-        android:id="@+id/button2"
+        android:text="main menu"
+        android:id="@+id/didimain"
+        android:backgroundTint="@color/orange"
         android:layout_alignParentBottom="true"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true"
-        android:layout_marginRight="53dp"
-        android:layout_marginEnd="53dp"
-        android:backgroundTint="@color/orange"/>
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="next"
+        android:id="@+id/didinext"
+        android:backgroundTint="@color/orange"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@+id/didimain"
+        android:layout_toEndOf="@+id/didimain" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="prev."
+        android:id="@+id/didiprev"
+        android:backgroundTint="@color/orange"
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@+id/didimain"
+        android:layout_toStartOf="@+id/didimain" />
 
 </RelativeLayout>

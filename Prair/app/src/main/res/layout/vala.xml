@@ -32,9 +32,31 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="main menu"
-        android:id="@+id/menu"
-        android:layout_below="@+id/imageView5"
-        android:layout_alignRight="@+id/las"
-        android:layout_alignEnd="@+id/las" />
+        android:id="@+id/valamain"
+        android:backgroundTint="@color/orange"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="next"
+        android:id="@+id/valanext"
+        android:backgroundTint="@color/orange"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@+id/valamain"
+        android:layout_toEndOf="@+id/valamain" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="prev."
+        android:id="@+id/valaprev"
+        android:backgroundTint="@color/orange"
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@+id/valamain"
+        android:layout_toStartOf="@+id/valamain" />
 
 </RelativeLayout>
