@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1"
+    android:background="@drawable/priroda">
+
+    <TextView
+        android:layout_width="216dp"
+        android:layout_height="69dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Prairie Springs"
+        android:id="@+id/pry"
+        android:textColor="@color/white" />
+</LinearLayout>
