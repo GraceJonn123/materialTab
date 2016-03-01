@@ -7,14 +7,13 @@
 
     <ImageView
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="300"
         android:id="@+id/imageView5"
         android:background="@drawable/smokey"
         android:layout_weight="0.33"
-        android:layout_above="@+id/button3"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
-        android:layout_marginBottom="98dp" />
+        android:layout_marginBottom="143dp" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -25,16 +24,17 @@
         android:layout_gravity="center_horizontal"
         android:layout_weight="0.79"
         android:textColor="@color/white"
-        android:layout_alignBaseline="@+id/button3"
-        android:layout_alignBottom="@+id/button3"
+        android:layout_marginBottom="147dp"
+        android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true" />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="last step"
-        android:id="@+id/button3"
-        android:layout_alignParentBottom="true"
+        android:text="main menu"
+        android:id="@+id/menu"
+        android:layout_below="@+id/imageView5"
         android:layout_alignRight="@+id/las"
         android:layout_alignEnd="@+id/las" />
+
 </RelativeLayout>
