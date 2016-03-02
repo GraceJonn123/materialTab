@@ -7,7 +7,7 @@
 
     <ImageView
         android:layout_width="match_parent"
-        android:layout_height="300"
+        android:layout_height="300dp"
         android:id="@+id/imageView4"
         android:background="@drawable/orange2"
         android:layout_weight="0.30" />

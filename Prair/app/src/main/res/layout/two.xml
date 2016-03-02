@@ -32,7 +32,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Main menu"
-        android:id="@+id/dakmain"
+        android:id="@+id/twomain"
         android:backgroundTint="@color/orange"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true" />
