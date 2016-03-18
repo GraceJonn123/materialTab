@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         button1.setOnClickListener(new View.OnClickListener(){
             @Override
         public void onClick(View view) {
-                firstTextView.setText("Wow, no!");
+                firstTextView.setText("Wow, no im stunned!");
 
 
             }
