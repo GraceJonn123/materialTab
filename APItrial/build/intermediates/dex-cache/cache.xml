@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/grace/AndroidStudioProjects/APItrial/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="/home/grace/AndroidStudioProjects/APItrial/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.0_3444c749f0f0ab70e84a6edb665cab9c3b6abdba.jar" />
+    </item>
+    <item
+        jar="/home/grace/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/home/grace/AndroidStudioProjects/APItrial/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_36ffb70680139eee56873ea59fca4519b04cc723.jar" />
+    </item>
+    <item
+        jar="/home/grace/AndroidStudioProjects/APItrial/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/home/grace/AndroidStudioProjects/APItrial/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.0_fbc7a97a86eeaa105193e64878b59fb7cfe79650.jar" />
+    </item>
+    <item
+        jar="/home/grace/AndroidStudioProjects/APItrial/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/home/grace/AndroidStudioProjects/APItrial/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.0_f720113220aff6761bb8993245c7ca4852d75cfa.jar" />
+    </item>
+    <item
+        jar="/home/grace/AndroidStudioProjects/APItrial/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="/home/grace/AndroidStudioProjects/APItrial/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.0_e3b481f697ef8a483e9b2bf4c7883ad48c123785.jar" />
+    </item>
+    <item
+        jar="/home/grace/AndroidStudioProjects/APItrial/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/home/grace/AndroidStudioProjects/APItrial/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.0_52a1bde041e15221e4fdc82bdbd29e33b353feb2.jar" />
+    </item>
+    <item
+        jar="/home/grace/AndroidStudioProjects/APItrial/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/home/grace/AndroidStudioProjects/APItrial/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_22aed24533133660a433587bd0eaaf2003c1914c.jar" />
+    </item>
+    <item
+        jar="/home/grace/AndroidStudioProjects/APItrial/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/home/grace/AndroidStudioProjects/APItrial/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.0_2f071d8c94c3cb73067d2fb74d569492568c625f.jar" />
+    </item>
+
+</items>
