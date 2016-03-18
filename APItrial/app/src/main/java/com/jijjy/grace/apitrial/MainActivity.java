@@ -17,15 +17,13 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
-        setSupportActionBar(toolbar);
+        setSupportActionBar(toolbar);}
 
         public void verifyEmail(View view) {
 
         EditText emailEditText = (EditText) findViewById(R.id.email_address);
         String email = emailEditText.getText().toString();
 
-        EditText
-    }
     }
 
     @Override
