@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/grace/AndroidStudioProjects/Retrieve/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/home/grace/AndroidStudioProjects/Retrieve/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_028b3793b1ed10040ec05d2ac99919262578a586.jar" />
+    </item>
+    <item
+        jar="/home/grace/AndroidStudioProjects/Retrieve/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/home/grace/AndroidStudioProjects/Retrieve/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.1_01bdd5aed12e178b625736ca10a93c31cf5ab710.jar" />
+    </item>
+    <item
+        jar="/home/grace/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/home/grace/AndroidStudioProjects/Retrieve/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_cfa5f80d9ddce87a4ad4ba38beb867ca41c36451.jar" />
+    </item>
+    <item
+        jar="/home/grace/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.11/d37cb67277928cf59344b4196af8d9cee1f1a27c/tubesock-0.0.11.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d37cb67277928cf59344b4196af8d9cee1f1a27c">
+        <dex dex="/home/grace/AndroidStudioProjects/Retrieve/app/build/intermediates/pre-dexed/debug/tubesock-0.0.11_c9b4d115ceff5daf4b30809d3d0c6d704e953170.jar" />
+    </item>
+    <item
+        jar="/home/grace/AndroidStudioProjects/Retrieve/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/home/grace/AndroidStudioProjects/Retrieve/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.1_af054bde4133efaebcd1d4d7b5adcae5f5544e3f.jar" />
+    </item>
+    <item
+        jar="/home/grace/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.3.1/4d53b7d6983247af02b8fe7e4228fff555a5e828/firebase-client-jvm-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4d53b7d6983247af02b8fe7e4228fff555a5e828">
+        <dex dex="/home/grace/AndroidStudioProjects/Retrieve/app/build/intermediates/pre-dexed/debug/firebase-client-jvm-2.3.1_493c8d7d8cbbbe41b735391bad08f615b5d1823b.jar" />
+    </item>
+    <item
+        jar="/home/grace/AndroidStudioProjects/Retrieve/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/grace/AndroidStudioProjects/Retrieve/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_32a1e7614e27d0ea414d8736c1ad5cf48c85b4d9.jar" />
+    </item>
+    <item
+        jar="/home/grace/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.3.1/be29b24233711c419ce935aa0a1b12ebc49d1c9a/firebase-client-android-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="be29b24233711c419ce935aa0a1b12ebc49d1c9a">
+        <dex dex="/home/grace/AndroidStudioProjects/Retrieve/app/build/intermediates/pre-dexed/debug/firebase-client-android-2.3.1_322cd15ea8cfe86ac3c3db676e4368d875112cb3.jar" />
+    </item>
+    <item
+        jar="/home/grace/AndroidStudioProjects/Retrieve/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/home/grace/AndroidStudioProjects/Retrieve/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_08dfaeaa2ecccc73331b72aacb4f3aba5b96af54.jar" />
+    </item>
+    <item
+        jar="/home/grace/AndroidStudioProjects/Retrieve/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/grace/AndroidStudioProjects/Retrieve/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_f73c92c9d4a829c6d8711ebea6e96fada7043a88.jar" />
+    </item>
+    <item
+        jar="/home/grace/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/home/grace/AndroidStudioProjects/Retrieve/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.2_1faa0f43796c6133e83857274df0b711d2d3d5dc.jar" />
+    </item>
+    <item
+        jar="/home/grace/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/home/grace/AndroidStudioProjects/Retrieve/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.2.2_3fbd6586857db7faecd12aec487b96474d72524f.jar" />
+    </item>
+    <item
+        jar="/home/grace/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/home/grace/AndroidStudioProjects/Retrieve/app/build/intermediates/pre-dexed/debug/jackson-databind-2.2.2_f1ebe892cc412473e7c965f1787a4b30472a204c.jar" />
+    </item>
+    <item
+        jar="/home/grace/AndroidStudioProjects/Retrieve/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/home/grace/AndroidStudioProjects/Retrieve/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_32dc7a014c72b73c9859c30d76696643f4fe1996.jar" />
+    </item>
+
+</items>
