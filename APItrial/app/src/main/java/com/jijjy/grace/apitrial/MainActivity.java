@@ -1,50 +1,94 @@
 package com.jijjy.grace.apitrial;
 
-import android.os.Bundle;
-import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
-import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.Toolbar;
-import android.view.View;
-import android.view.Menu;
-import android.view.MenuItem;
-import android.widget.EditText;
+        import android.os.Bundle;
+        import android.support.v4.widget.SwipeRefreshLayout;
+        import android.support.v7.app.AppCompatActivity;
+        import android.support.v7.widget.LinearLayoutManager;
+        import android.support.v7.widget.RecyclerView;
+        import android.support.v7.widget.Toolbar;
+
+        import com.alelak.soundroid.Soundroid;
+        import com.alelak.soundroid.models.Track;
+
+        import java.util.ArrayList;
+        import java.util.List;
+
+        import retrofit2.Call;
+        import retrofit2.Callback;
+        import retrofit2.Response;
 
 public class MainActivity extends AppCompatActivity {
+    private static final String TAG = MainActivity.class.getName();
+    private RecyclerView recyclerView;
+    private SwipeRefreshLayout swipeRefreshLayout;
+    private SongAdapter songAdapter;
+    private List<Track> tracks;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.content_main);
+        setupToolbar();
+        setupRecyclerView();
+        setupSwipeRefreshLayout();
+        getContent();
+
+    }
+
+    private void setupToolbar() {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
-        setSupportActionBar(toolbar);}
-
-        public void verifyEmail(View view) {
-
-        EditText emailEditText = (EditText) findViewById(R.id.email_address);
-        String email = emailEditText.getText().toString();
-
+        setSupportActionBar(toolbar);
     }
 
-    @Override
-    public boolean onCreateOptionsMenu(Menu menu) {
-        // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.menu_main, menu);
-        return true;
+    private void setupSwipeRefreshLayout() {
+        swipeRefreshLayout = (SwipeRefreshLayout) findViewById(R.id.swipe_refresh_layout);
+        swipeRefreshLayout.setColorSchemeResources(R.color.colorAccent);
+        swipeRefreshLayout.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {
+            @Override
+            public void onRefresh() {
+                getContent();
+            }
+        });
+        swipeRefreshLayout.post(new Runnable() {
+            @Override
+            public void run() {
+                swipeRefreshLayout.setRefreshing(true);
+            }
+        });
     }
 
-    @Override
-    public boolean onOptionsItemSelected(MenuItem item) {
-        // Handle action bar item clicks here. The action bar will
-        // automatically handle clicks on the Home/Up button, so long
-        // as you specify a parent activity in AndroidManifest.xml.
-        int id = item.getItemId();
+    private void setupRecyclerView() {
+        recyclerView = (RecyclerView) findViewById(R.id.recyclerView);
+        LinearLayoutManager linearLayoutManager = new LinearLayoutManager(this);
+        linearLayoutManager.setOrientation(LinearLayoutManager.VERTICAL);
+        recyclerView.setLayoutManager(linearLayoutManager);
+        recyclerView.addItemDecoration(new SimpleDividerItemDecoration(this));
+        recyclerView.setHasFixedSize(true);
+        tracks = new ArrayList<>();
+        songAdapter = new SongAdapter(tracks, this);
+        recyclerView.setAdapter(songAdapter);
+    }
 
-        //noinspection SimplifiableIfStatement
-        if (id == R.id.action_settings) {
-            return true;
-        }
 
-        return super.onOptionsItemSelected(item);
+    private void getContent() {
+        Call<List<Track>> call = Soundroid.getSoundcloudService().searchTracksByGenres("Gospel HipHop", 20);
+        call.enqueue(new Callback<List<Track>>() {
+            @Override
+            public void onResponse(Response<List<Track>> response) {
+                swipeRefreshLayout.setRefreshing(false);
+                if (response.isSuccess()) {
+                    tracks.clear();
+                    tracks.addAll(response.body());
+                    songAdapter.notifyDataSetChanged();
+
+                }
+            }
+
+            @Override
+            public void onFailure(Throwable t) {
+                swipeRefreshLayout.setRefreshing(false);
+            }
+        });
     }
 }

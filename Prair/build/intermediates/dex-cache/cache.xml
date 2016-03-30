@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/grace/AndroidStudioProjects/Prair/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/home/grace/AndroidStudioProjects/Prair/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.0_fad02f038a296d08936af2284cecd543adb62ba7.jar" />
+    </item>
+    <item
+        jar="/home/grace/AndroidStudioProjects/Prair/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/home/grace/AndroidStudioProjects/Prair/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.0_20d8c85b185c9c181e518148b0eb8d151099d78d.jar" />
+    </item>
+    <item
+        jar="/home/grace/AndroidStudioProjects/Prair/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/home/grace/AndroidStudioProjects/Prair/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.0_6c5e5a151176c7693015cfde284e9e3cef275af3.jar" />
+    </item>
+    <item
+        jar="/home/grace/AndroidStudioProjects/Prair/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="/home/grace/AndroidStudioProjects/Prair/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.0_41c43bb82a41d4cb5e27185aee3da5b6bb84980f.jar" />
+    </item>
+    <item
+        jar="/home/grace/AndroidStudioProjects/Prair/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="/home/grace/AndroidStudioProjects/Prair/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.0_14e9fce6746bcfd525538f2b469f89fd70dafc52.jar" />
+    </item>
+    <item
+        jar="/home/grace/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/home/grace/AndroidStudioProjects/Prair/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_36ffb70680139eee56873ea59fca4519b04cc723.jar" />
+    </item>
+    <item
+        jar="/home/grace/AndroidStudioProjects/Prair/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/home/grace/AndroidStudioProjects/Prair/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.0_28304fd88fd48fde158752b03ee8c35bfa93ddf7.jar" />
+    </item>
+    <item
+        jar="/home/grace/AndroidStudioProjects/Prair/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/home/grace/AndroidStudioProjects/Prair/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_ff29acd8075b649ffd1707748e52a911b4ec6153.jar" />
+    </item>
+
+</items>

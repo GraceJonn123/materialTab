@@ -50,12 +50,5 @@ public class MainActivity extends AppCompatActivity {
             firebaseRef.push().setValue(cMessage);
             textInput.setText("");
         }
-    }
-    //getting a firebase reference to all messages
-    var ref = new Firebase("https://realtyme.firebaseio.com/messages");
-
-    ref.on("value", function(snapshot){
-        console.log(snapshot.val());
-    }, function
-    })
+    };
 }
