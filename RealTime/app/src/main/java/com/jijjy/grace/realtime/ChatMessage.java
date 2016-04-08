@@ -17,6 +17,7 @@ public class ChatMessage {
     }
 
     public String getAuthor() {
+
         return author;
     }
 

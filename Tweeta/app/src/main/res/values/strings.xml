@@ -1,3 +1,50 @@
 <resources>
     <string name="app_name">Tweeta</string>
+    <!-- ACTIVITY TITLES -->
+    <string name="settings_activity_title">Settings</string>
+
+    <!-- SETTINGS ACTIVITY -->
+    <string name="about_preferences">About</string>
+    <string name="app_preferences">App settings</string>
+    <string name="github_title">twitt4droid on GitHub</string>
+    <string name="github_summary">Library code and wikis</string>
+    <string name="licenses_title">Licenses</string>
+    <string name="licenses_summary">License details for open source software</string>
+    <string name="licenses_dialog_tile">Open source licenses</string>
+    <string name="clear_cache_title">Clear caches</string>
+    <string name="clear_cache_summary">Deletes stored data like images and tweets</string>
+    <string name="change_theme_title">Change theme</string>
+    <string name="change_theme_summary">%s selected</string>
+    <string-array name="theme_entries">
+        <item>Holo light theme</item>
+        <item>Holo dark theme</item>
+    </string-array>
+    <string name="change_theme_warning">Changes will apply after restarting the application</string>
+    <string name="cache_cleared_message">Cache cleared</string>
+    <string name="close_session_title">Close session</string>
+    <string name="close_session_summary">Closes session and deletes all stored data</string>
+    <string name="close_session_alert_message">Closing session will delete all Twitter related data in this device ¿Do you really want to close session?</string>
+    <string name="app_version_title">App version</string>
+
+    <!-- OTHER TEXTS -->
+    <string name="instructions">Login to create a link to fetch your account data and use Twitter API</string>
+    <string name="custom_login">Sign in!</string>
+    <string name="custom_log_out">Change account</string>
+    <string name="generic_icon_description">Icon</string>
+
+    <!-- MENU -->
+    <string name="tweet">Tweet</string>
+    <string name="settings">Settings</string>
+    <string name="overflow">More</string>
+
+    <!-- DRAWER -->
+    <string name="drawer_open">Menu Opened</string>
+    <string name="drawer_close">Menu Closed</string>
+    <string name="drawer_home_option">Home</string>
+    <string name="drawer_mentions_option">Mentions</string>
+    <string name="drawer_lists_option">Lists</string>
+    <string name="drawer_fixed_search_option">#WorldCup</string>
+    <string name="drawer_search_option">Search in Twitter</string>
+    <string name="drawer_settings_option">Settings</string>
+
 </resources>
