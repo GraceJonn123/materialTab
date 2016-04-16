@@ -126,7 +126,7 @@ public class MainActivity extends ListActivity {
 //            inputText.setText("");
 //        }
 //    }
-    private static final String FIREBASE_URL = "https://android-chat.firebaseio-demo.com";
+    private static final String FIREBASE_URL = "https://mechat.firebaseio.com";
 
     private String mUsername;
     private Firebase mFirebaseRef;
@@ -213,7 +213,7 @@ public class MainActivity extends ListActivity {
 
     private void setupUsername() {
         SharedPreferences prefs = getApplication().getSharedPreferences("ChatPrefs", 0);
-        mUsername = prefs.getString("username", null);
+        mUsername = prefs.getString("Grace", null);
         if (mUsername == null) {
             Random r = new Random();
             // Assign a random user name if we don't have one saved.
