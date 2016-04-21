@@ -26,6 +26,8 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
+        <activity android:name=".Sec" />
+        <activity android:name=".third"></activity>
     </application>
 
 </manifest>
