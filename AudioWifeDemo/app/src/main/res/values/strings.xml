@@ -1,3 +1,5 @@
 <resources>
+
+    <string name="default_player">Default Player</string>
     <string name="app_name">AudioWifeDemo</string>
 </resources>

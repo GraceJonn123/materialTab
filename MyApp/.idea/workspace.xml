@@ -7,24 +7,86 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="deb4320b-04a9-472b-aa51-b912e9d77996" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bizner" afterPath="$PROJECT_DIR$/../Bizner" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Trial/gradle/wrapper/gradle-wrapper.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Trial/app/src/main/res/mipmap-hdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Trial/app/src/main/res/mipmap-mdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Trial/app/src/main/res/mipmap-xhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Trial/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Trial/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Trial/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Trial/app/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Trial/app/src/main/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Trial/app/src/androidTest/java/com/jijjy/grace/trial/ApplicationTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Trial/app/src/test/java/com/jijjy/grace/trial/ExampleUnitTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Trial/app/src/main/java/com/jijjy/grace/trial/MainActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Trial/app/src/main/res/layout/activity_main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Trial/app/src/main/res/menu/activity_main_drawer.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Trial/app/src/main/res/layout/app_bar_main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Trial/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Trial/app/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Trial/app/src/main/res/values/colors.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MaterialTabs/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Trial/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Trial/app/src/main/res/layout/content_main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Trial/app/src/main/res/values/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Trial/app/src/main/res/values-w820dp/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Trial/app/src/main/res/values/drawables.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Trial/gradle/wrapper/gradle-wrapper.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Trial/gradle.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Trial/.idea/gradle.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Trial/gradlew.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Trial/gradlew" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Trial/app/src/main/res/drawable-v21/ic_menu_camera.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Trial/app/src/main/res/drawable-v21/ic_menu_gallery.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Trial/app/src/main/res/drawable-v21/ic_menu_manage.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Trial/app/src/main/res/drawable-v21/ic_menu_send.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Trial/app/src/main/res/drawable-v21/ic_menu_share.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Trial/app/src/main/res/drawable-v21/ic_menu_slideshow.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Trial/app/src/main/res/menu/main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Trial/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MaterialTabs/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Trial/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Trial/app/src/main/res/layout/nav_header_main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MaterialTabs/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Trial/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Trial/app/proguard-rules.pro" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Trial/.idea/runConfigurations.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Trial/settings.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Trial/app/src/main/res/drawable/side_nav_bar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Trial/app/src/main/res/values/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Trial/app/src/main/res/values/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Trial/app/src/main/res/values-v21/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../MaterialTabs/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Trial/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Background/app/app-release.apk" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../BucketList" afterPath="$PROJECT_DIR$/../BucketList" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../InStyleApp" afterPath="$PROJECT_DIR$/../InStyleApp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../InStyle" afterPath="$PROJECT_DIR$/../InStyle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Kari" afterPath="$PROJECT_DIR$/../Kari" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LyricsSmash" afterPath="$PROJECT_DIR$/../LyricsSmash" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MyApp2" afterPath="$PROJECT_DIR$/../MyApp2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MyCam" afterPath="$PROJECT_DIR$/../MyCam" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Playlist" afterPath="$PROJECT_DIR$/../Playlist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Qwizz" afterPath="$PROJECT_DIR$/../Qwizz" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ReadersOnly" afterPath="$PROJECT_DIR$/../ReadersOnly" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../RebelAlpha" afterPath="$PROJECT_DIR$/../RebelAlpha" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Rebel" afterPath="$PROJECT_DIR$/../Rebel" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Rendam" afterPath="$PROJECT_DIR$/../Rendam" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SlideTest" afterPath="$PROJECT_DIR$/../SlideTest" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ZeCartoon" afterPath="$PROJECT_DIR$/../ZeCartoon" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../em" afterPath="$PROJECT_DIR$/../em" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../materialTab" afterPath="$PROJECT_DIR$/../materialTab" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Retrieve/app/src/main/java/com/jijjy/grace/retrieve/MainActivity.java" afterPath="$PROJECT_DIR$/../Retrieve/app/src/main/java/com/jijjy/grace/retrieve/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Retrieve/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/../Retrieve/app/src/main/res/layout/activity_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Retrieve/app/app.iml" afterPath="$PROJECT_DIR$/../Retrieve/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Retrieve/app/build.gradle" afterPath="$PROJECT_DIR$/../Retrieve/app/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Retrieve/app/src/main/res/layout/content_main.xml" afterPath="$PROJECT_DIR$/../Retrieve/app/src/main/res/layout/content_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../RealTime/.idea/misc.xml" afterPath="$PROJECT_DIR$/../RealTime/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Ferya/.idea/.name" afterPath="$PROJECT_DIR$/../Ferya/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Convert/app/src/main/java/com/jijjy/grace/convert/MainActivity.java" afterPath="$PROJECT_DIR$/../Convert/app/src/main/java/com/jijjy/grace/convert/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MultipaneFragmentsExample/app/app.iml" afterPath="$PROJECT_DIR$/../MultipaneFragmentsExample/app/app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MultipaneFragmentsExample/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/../MultipaneFragmentsExample/build/intermediates/dex-cache/cache.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Convert/app/src/main/res/layout/content_main.xml" afterPath="$PROJECT_DIR$/../Convert/app/src/main/res/layout/content_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../APifbg/.idea/misc.xml" afterPath="$PROJECT_DIR$/../APifbg/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Background/.idea/misc.xml" afterPath="$PROJECT_DIR$/../Background/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Contactlist/.idea/misc.xml" afterPath="$PROJECT_DIR$/../Contactlist/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Convert/.idea/misc.xml" afterPath="$PROJECT_DIR$/../Convert/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Ferya/.idea/misc.xml" afterPath="$PROJECT_DIR$/../Ferya/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Ferya/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../Ferya/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MaterialTabs/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../MaterialTabs/.idea/workspace.xml" />
     </list>
     <ignored path="MyApp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -92,6 +154,9 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="AndroidView">
+        <subPane />
+      </pane>
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -103,11 +168,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="AndroidView">
-        <subPane />
-      </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -130,8 +192,6 @@
       <option name="FORCE_STOP_RUNNING_APP" value="true" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
-      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
-      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
       <method />
@@ -226,8 +286,6 @@
       <option name="FORCE_STOP_RUNNING_APP" value="true" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
-      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
-      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
       <method />

@@ -45,7 +45,7 @@
         android:layout_height="wrap_content"
         android:text="Length"
         android:id="@+id/length"
-        android:layout_below="@+id/weight"
+        android:layout_centerVertical="true"
         android:layout_centerHorizontal="true" />
 
     <Button
@@ -53,7 +53,7 @@
         android:layout_height="wrap_content"
         android:text="Time"
         android:id="@+id/time"
-        android:layout_centerVertical="true"
-        android:layout_alignLeft="@+id/length"
-        android:layout_alignStart="@+id/length" />
+        android:layout_below="@+id/length"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="73dp" />
 </RelativeLayout>

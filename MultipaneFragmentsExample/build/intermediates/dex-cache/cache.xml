@@ -1,2 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/home/grace/AndroidStudioProjects/MultipaneFragmentsExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/home/grace/AndroidStudioProjects/MultipaneFragmentsExample/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.0_d930be6b184f522d0390e478b9b1d395fb1764e1.jar" />
+    </item>
+    <item
+        jar="/home/grace/AndroidStudioProjects/MultipaneFragmentsExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/home/grace/AndroidStudioProjects/MultipaneFragmentsExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.0_9205b46d747f3cff8727d13f40febda897d58501.jar" />
+    </item>
+    <item
+        jar="/home/grace/AndroidStudioProjects/MultipaneFragmentsExample/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="/home/grace/AndroidStudioProjects/MultipaneFragmentsExample/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.0_af7779c128a397fae5b9d7612210273dc608b95f.jar" />
+    </item>
+    <item
+        jar="/home/grace/AndroidStudioProjects/MultipaneFragmentsExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/home/grace/AndroidStudioProjects/MultipaneFragmentsExample/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_aa46c02e6c28cf620368cb291e60ba6c3c21b68f.jar" />
+    </item>
+    <item
+        jar="/home/grace/AndroidStudioProjects/MultipaneFragmentsExample/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/home/grace/AndroidStudioProjects/MultipaneFragmentsExample/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.0_02f3935ca5b0c3f4b6266c040ea70287f7a06cf7.jar" />
+    </item>
+    <item
+        jar="/home/grace/AndroidStudioProjects/MultipaneFragmentsExample/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="/home/grace/AndroidStudioProjects/MultipaneFragmentsExample/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.0_85a651ae2e4773a0499b461534c71df76b507d85.jar" />
+    </item>
+    <item
+        jar="/home/grace/AndroidStudioProjects/MultipaneFragmentsExample/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/home/grace/AndroidStudioProjects/MultipaneFragmentsExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.0_baf87696385f2fefa833f26910a38847347ec918.jar" />
+    </item>
+    <item
+        jar="/home/grace/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/home/grace/AndroidStudioProjects/MultipaneFragmentsExample/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_36ffb70680139eee56873ea59fca4519b04cc723.jar" />
+    </item>
+
+</items>
