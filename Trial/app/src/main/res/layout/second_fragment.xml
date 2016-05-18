@@ -3,16 +3,18 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="layout.second_fragment">
+    tools:context="layout.second_fragment"
+    android:background="@color/colorPrimary">
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="wawawawaaawawwaw"
+        android:text="So this is our second fragment.. wanna see whats going on?"
         android:id="@+id/textView2"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="187dp" />
+        android:layout_marginTop="187dp"
+        android:textColor="#fff" />
 
 </RelativeLayout>
