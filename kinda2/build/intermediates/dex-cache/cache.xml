@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/grace/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/home/grace/Documents/GitHub/Kinda-Gari/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_36ffb70680139eee56873ea59fca4519b04cc723.jar" />
+    </item>
+    <item
+        jar="/home/grace/Documents/GitHub/Kinda-Gari/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bc599eb9531da9d18bc58ec4eb0b1a1d895f6839">
+        <dex dex="/home/grace/Documents/GitHub/Kinda-Gari/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.2.0_d16225d5d41f7bf79123e853ec694a4f807d299d.jar" />
+    </item>
+    <item
+        jar="/home/grace/Documents/GitHub/Kinda-Gari/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/home/grace/Documents/GitHub/Kinda-Gari/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.0_3e03933d6b133cfb12684a369969154ab1a8847e.jar" />
+    </item>
+    <item
+        jar="/home/grace/Documents/GitHub/Kinda-Gari/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/home/grace/Documents/GitHub/Kinda-Gari/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.0_32a6a82ae3faca651cf2b74dfb82367fa5fd2e8b.jar" />
+    </item>
+    <item
+        jar="/home/grace/Documents/GitHub/Kinda-Gari/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/home/grace/Documents/GitHub/Kinda-Gari/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_bac2d1a85a542ddb9f233ba9dd1d238b91f17c0e.jar" />
+    </item>
+    <item
+        jar="/home/grace/Documents/GitHub/Kinda-Gari/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/home/grace/Documents/GitHub/Kinda-Gari/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.0_34a27505c2b6faa3727783024af26ffd9730b1f3.jar" />
+    </item>
+    <item
+        jar="/home/grace/Documents/GitHub/Kinda-Gari/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="/home/grace/Documents/GitHub/Kinda-Gari/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.0_b26e200be0967f9dbec4079663e5a991b0df9e79.jar" />
+    </item>
+    <item
+        jar="/home/grace/Documents/GitHub/Kinda-Gari/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/home/grace/Documents/GitHub/Kinda-Gari/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.0_4b28c3fd558020f994b1546c847f2d6283ab0dcd.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kinda Gari</string>
+    <string name="ttlbrands">BRANDS</string>
+    <string name="brandisuzu">ISUZU</string>
+    <string name="brandbenz">MERCEDES</string>
+    <string name="brandnissan">NISSAN</string>
+    <string name="brandtoyota">TOYOTA</string>
+</resources>

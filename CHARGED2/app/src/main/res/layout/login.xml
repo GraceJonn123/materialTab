@@ -87,4 +87,5 @@
         android:layout_marginRight="2dp"
         android:layout_toEndOf="@+id/textView2"
         android:textColor="#5fb0e3" />
+
 </RelativeLayout>

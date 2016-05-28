@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/brandnissan"
+            android:id="@+id/textView"
+            android:layout_gravity="center_horizontal"
+            android:textSize="40dp" />
+
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="350dp">
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="310dp"
+                android:src="@drawable/nissan_350s"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Nissan 350z"
+                android:textSize="30sp"
+                android:gravity="center_horizontal"
+                android:layout_marginTop="20dp"
+                android:layout_gravity="bottom"/>
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="350dp">
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="310dp"
+                android:src="@drawable/nissan_altima"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Nissan Altima"
+                android:textSize="30sp"
+                android:gravity="center_horizontal"
+                android:layout_marginTop="20dp"
+                android:layout_gravity="bottom"/>
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="350dp">
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="310dp"
+                android:src="@drawable/nissan_juke"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Nissan Juke"
+                android:textSize="30sp"
+                android:gravity="center_horizontal"
+                android:layout_marginTop="20dp"
+                android:layout_gravity="bottom"/>
+        </android.support.v7.widget.CardView>
+    </LinearLayout>
+
+
+</ScrollView>

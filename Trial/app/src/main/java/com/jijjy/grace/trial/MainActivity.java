@@ -15,8 +15,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Toast;
 
-public class MainActivity extends AppCompatActivity
-        implements NavigationView.OnNavigationItemSelectedListener {
+public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -65,7 +64,7 @@ public class MainActivity extends AppCompatActivity
 //                        break;
 //
 //                    case R.id.nav_gallery: /** AlerDialog when click on Exit */
-//                        Intent gallery = new Intent(getBaseContext(), y.class);
+//                        Intent gallery = new Intent(getBaseContext(), yow.class);
 //                        startActivity(gallery);
 //                        break;
 //                }
@@ -111,11 +110,11 @@ public class MainActivity extends AppCompatActivity
         int id = item.getItemId();
 
         if (id == R.id.nav_camera) {
-            Intent intent = new Intent(getApplicationContext(), x.class);
-            startActivity(intent);
+            Intent in = new Intent(getApplicationContext(), yow.class);
+            startActivity(in);
 
-//            Toast.makeText(MainActivity.this, "Moving to Camera!", Toast.LENGTH_SHORT).show();
-//            // Handle the camera action
+            Toast.makeText(MainActivity.this, "Moving to Camera!", Toast.LENGTH_SHORT).show();
+//             Handle the camera action
         } else if (id == R.id.nav_gallery) {
 
             Toast.makeText(MainActivity.this, "Moving to Gallery!", Toast.LENGTH_SHORT).show();
