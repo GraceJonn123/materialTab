@@ -4,19 +4,26 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="layout.first_fragment"
-    android:background="@color/colorPrimary">
-
+    android:background="#fb1afb">
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="Hello everyone, this is the first fragment!"
-        android:id="@+id/textView"
-        android:layout_above="@+id/imageView"
-        android:layout_centerHorizontal="true"
+        android:text="Hey"
+        android:id="@+id/textView2"
         android:textColor="#fff"
-        android:background="@color/colorPrimary"/>
+        android:textSize="60dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="43dp" />
 
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView2"
+        android:layout_below="@+id/textView2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="76dp" />
 
 </RelativeLayout>

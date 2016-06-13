@@ -11,6 +11,8 @@
         <service
             android:name=".PlayAudio"
             android:enabled="true" />
+        <service android:name=".Player"
+            android:enabled="true" />
 
         <activity android:name=".Splash">
             <intent-filter>
@@ -27,6 +29,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".Sec" />
+        <activity android:name=".Pipi" />
         <activity android:name=".third"></activity>
     </application>
 

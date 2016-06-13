@@ -18,7 +18,7 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Button b1 = (Button)findViewById(R.id.next);
+        Button b1 = (Button)findViewById(R.id.secb);
 
         b1.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -27,6 +27,17 @@ public class MainActivity extends Activity {
                 startActivity(a);
             }
         });
+
+        Button b2 = (Button) findViewById(R.id.pipib);
+
+        b2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent w = new Intent(getBaseContext(), Pipi.class);
+                startActivity(w);
+            }
+        });
+
     }
 
 }

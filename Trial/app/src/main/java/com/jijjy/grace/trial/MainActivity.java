@@ -110,14 +110,16 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         int id = item.getItemId();
 
         if (id == R.id.nav_camera) {
-            Intent in = new Intent(getApplicationContext(), yow.class);
-            startActivity(in);
+//            Intent in = new Intent(getApplicationContext(), x.class);
+//            startActivity(in);
 
-            Toast.makeText(MainActivity.this, "Moving to Camera!", Toast.LENGTH_SHORT).show();
+//            Toast.makeText(MainActivity.this, "Moving to Camera!", Toast.LENGTH_SHORT).show();
 //             Handle the camera action
         } else if (id == R.id.nav_gallery) {
 
-            Toast.makeText(MainActivity.this, "Moving to Gallery!", Toast.LENGTH_SHORT).show();
+//            Toast.makeText(MainActivity.this, "Moving to Gallery!", Toast.LENGTH_SHORT).show();
+//            Intent ind = new Intent(getApplicationContext(), yow.class);
+//            startActivity(ind);
 
         } else if (id == R.id.nav_slideshow) {
 

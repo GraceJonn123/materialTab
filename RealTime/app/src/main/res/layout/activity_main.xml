@@ -14,9 +14,11 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/messageText"
-        android:layout_centerVertical="true"
+        android:hint="Send me a message"
+        android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:hint="Send me a message" />
+        android:layout_marginTop="69dp"
+        android:backgroundTint="#ff0000" />
 
     <Button
         android:layout_width="wrap_content"
@@ -25,5 +27,6 @@
         android:id="@+id/sendButton"
         android:layout_below="@+id/messageText"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="65dp" />
+        android:layout_marginTop="65dp"
+        android:backgroundTint="#ff0000" />
 </RelativeLayout>

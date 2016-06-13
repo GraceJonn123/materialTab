@@ -7,16 +7,16 @@ import android.os.IBinder;
 import android.util.Log;
 
 /**
- * Created by grace on 4/15/16.
+ * Created by grace on 6/2/16.
  */
-public class PlayAudio extends Service{
+public class Player extends Service {
     private static final String LOGCAT = null;
     MediaPlayer objPlayer;
 
     public void onCreate(){
         super.onCreate();
         Log.d(LOGCAT, "Service Started!");
-        objPlayer = MediaPlayer.create(this,R.raw.sleepaway);
+        objPlayer = MediaPlayer.create(this,R.raw.manup);
     }
 
     public int onStartCommand(Intent intent, int flags, int startId){
@@ -48,4 +48,3 @@ public class PlayAudio extends Service{
         return null;
     }
 }
-

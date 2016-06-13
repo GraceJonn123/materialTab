@@ -12,7 +12,7 @@ public class Splash extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
 
-        int timer = 10000;
+        int timer = 3000;
 
         new Handler().postDelayed(new Runnable() {
             @Override
